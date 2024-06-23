@@ -2,6 +2,6 @@
 
 <img align="right" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=edxu96&hide=html,PostScript&layout=compact&title_color=7793cc&text_color=595858&bg_color=ffffff">
 
-Edward has an [MSc in engineering](https://www.dtu.dk/english/education/msc/programmes/sustainable_energy#study-programme__study-lines__energy-systems-analysis) from Technical University of Denmark (DTU), and works as a mathematical modeller / software engineer at [encoord](https://www.encoord.com/) in Essen, Germany. He is familiar with techniques from mathematical simulation, mathematical modelling and graph theory.
+Edward has an [MSc in Engineering](https://www.dtu.dk/english/education/graduate/msc-programmes/sustainable-energy-systems/study-lines/energy-systems-analysis) from Technical University of Denmark (DTU), and works as senior mathematical modeller at [encoord](https://www.encoord.com/) in Essen, Germany. He is familiar with techniques from mathematical simulation, mathematical modelling and graph theory.
 
 You can know more about him through https://edxu96.github.io/ and have a look at [his resume](https://edxu96.github.io/files/resume.pdf).
